@@ -1,17 +1,17 @@
-[![MasterHead](http://drive.google.com/uc?export=view&id=1BVdMkWMnWLghlj30IUYtmCY3ttrG4zRw)](www.linkedin.com/in/akhilesh-thapliyal)
+[![MasterHead](http://drive.google.com/uc?export=view&id=1ebbS-dvT8m7-7H4nkz7hRc7pm1iZ-6-R)](www.linkedin.com/in/akhilesh-thapliyal)
 
 <h1 align="center">Hi 👋, I'm Akhilesh Thapliyal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="http://drive.google.com/uc?export=view&id=14LfbCRXo-byS0gZom2MCRG24Mq2OHRUn">
+<img align="right" alt="Coding" width="400" src="http://drive.google.com/uc?export=view&id=1TaKcpi1aJg58UbKORx5tpoMRavovP89Y">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-akhilesh-thapliyal&label=Profile%20views&color=0e75b6&style=flat" alt="the-akhilesh-thapliyal" /> </p>
 
-- 🌱 I’m currently learning **C# and .NET**
+- 🌱 I’m currently learning **MERN Full-Stack**
 
-- 💬 Ask me about **C and C++**
+- 💬 Ask me about **JavaScript and Python**
 
-- 📫 How to reach me **akhileshthapliyal20@gmail.com**
+- 📫 How to reach me **akhilesh.thedev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/akhilesh-thapliyal](https://www.linkedin.com/in/akhilesh-thapliyal)
 
